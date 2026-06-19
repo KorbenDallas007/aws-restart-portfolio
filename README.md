@@ -1,4 +1,17 @@
 # AWS Restart Portfolio 🚀
+<!-- Badges -->
+<p align="left">
+  <img src="https://img.shields.io/github/license/KorbenDallas007/aws-restart-portfolio?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/languages/top/KorbenDallas007/aws-restart-portfolio?style=flat-square" alt="Language">
+  <img src="https://img.shields.io/github/last-commit/KorbenDallas007/aws-restart-portfolio?style=flat-square" alt="Last Commit">
+  <img src="https://img.shields.io/github/v/release/KorbenDallas007/aws-restart-portfolio?style=flat-square&include_prereleases" alt="Latest Release">
+</p>
+
+## 📑 Tabla de Contenidos
+- [Objetivo](#objetivo)
+- [Ruta de Aprendizaje](#ruta-de-aprendizaje)
+- [Laboratorios](#estructura-de-módulos)
+- [Contribución](#contribuir)
 
 Repositorio completo de laboratorios y ejercicios del programa **AWS Restart** - una iniciativa de capacitación en AWS para desarrolladores.
 
