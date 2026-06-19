@@ -1,0 +1,19 @@
+name-template: v$RESOLVED_VERSION
+tag-template: v$RESOLVED_VERSION
+categories:
+  - title: '🚀 Nuevas Funcionalidades'
+    labels:
+      - 'feat'
+      - 'feature'
+  - title: '🐛 Correcciones'
+    labels:
+      - 'fix'
+      - 'bug'
+  - title: '📚 Documentación'
+    labels:
+      - 'docs'
+      - 'documentation'
+change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+template: |
+  ## Cambios en esta versión
+  $CHANGES
